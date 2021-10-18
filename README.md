@@ -1,16 +1,48 @@
 ### Hi there 👋
 
-<!--
-**dgsilveira/dgsilveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Bachelor's student in Software Engineering at PUC Pontificia Universidade Católica in the state of Minas Gerais in Brazil.
 
-Here are some ideas to get you started:
+I'm getting ready to work in the software engineering job market.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I currently study:
+- Java;
+- JavaScript;
+- Python;
+- SQL;
+- HTML and CSS;
+- Agile methodologies like Scrum.
+
+
+
+
+How to contact me: douglasgsilveira@gmail.com
+
+
+<div >
+  <a href="https://github.com/dgsilveira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilveira&layout=compact&langs_count=7&theme=dark"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Doug-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Doug-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Doug-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Doug-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Doug-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Doug-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+</div>
+  
+  
+  ##
+  
+  <div> 
+  <a href="https://www.instagram.com/silveiradouglas_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href = "mailto:douglasgsilveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/douglasgsilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/dgsilveira/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
