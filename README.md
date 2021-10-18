@@ -12,12 +12,6 @@ I'm getting ready to work in the software engineering job market.
 - HTML and CSS;
 - Agile methodologies like Scrum.
 
-
-
-
-How to contact me: douglasgsilveira@gmail.com
-
-
 <div >
   <a href="https://github.com/dgsilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -42,7 +36,7 @@ How to contact me: douglasgsilveira@gmail.com
  <a href = "mailto:douglasgsilveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglasgsilveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/dgsilveira/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/dgsilveira/dgsilveira/blob/output/github-contribution-grid-snake.svg)
  
 </div>
   
