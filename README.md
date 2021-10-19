@@ -15,7 +15,8 @@ I'm getting ready to work in the software engineering job market.
 <div >
   <a href="https://github.com/dgsilveira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dgsilveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilveira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dgsilveira&layout=compact&langs_count=10&theme=dark"/>
+ 
 </div>
   
   <div style="display: inline_block"><br>
