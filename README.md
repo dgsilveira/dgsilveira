@@ -4,6 +4,10 @@ I am currently a Bachelor's student in Software Engineering at PUC Pontificia Un
 
 I'm getting ready to work in the software engineering job market.
 
+I'm passionate about solving problems and learning.
+
+Always open to new challenges and ready to face changes.
+
 #### I currently study:
 - Java;
 - JavaScript;
