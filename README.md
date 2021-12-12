@@ -11,7 +11,7 @@ Always open to new challenges and ready to face changes.
 #### I currently study:
 - Java;
 - JavaScript;
-- Python;
+- C#;
 - SQL;
 - HTML and CSS;
 - Agile methodologies like Scrum.
