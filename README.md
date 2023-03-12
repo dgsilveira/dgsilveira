@@ -1,14 +1,13 @@
 ### Olá 👋
 
-Atualmente sou dev C# .NET na Localiza & CO (treinamento onBoard).
+Trabalho como Software Developer na Localiza & CO.
 
-Sou contratado como técnico de manutenção, mas desde de 13 de Setembro de 2022 me deram a oportunidade de atuar integralmente como dev em um dos squads da Localiza & Co.
-
-Desenvolvedor back end C# .NET,
+* BackEnd,
+* ASP .NET,
+* MVC architecture,
+* API Rest,
 * .Net Core,
 * .Net Framework,
-* API Rest,
-* MVC architecture,
 * Onion architecture,
 * Microsoft Azure DevOps,
 * Swagger,
@@ -25,9 +24,7 @@ Desenvolvedor back end C# .NET,
 * CI/CD,
 * Cloud Platforms (AWS e GCP).
 
-Estudo Bacharelado em Engenharia de Software e Tecnólogo em Análise e Desenvolvimento de Sistemas, ambos na na PUC Minas.
-
-Desde 2019 me preparando totalizando mais de 1.500 horas de estudos.
+Estudo Bacharelado em Engenharia de Software e Tecnólogo em Análise e Desenvolvimento de Sistemas, ambos na PUC Minas.
 
 Tenho experiência em setores administrativos e assistência a gestores.
 Atuei na execução da manutenção em oficinas automotivas, oficinas de equipamentos de terraplanagem de mineração e como eletricista em usina de beneficiamento de minério de ferro.
