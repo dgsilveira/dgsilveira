@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Trabalho como Software Developer na Localiza & CO.
+Trabalho como Software Developer.
 
 * BackEnd,
 * ASP .NET,
@@ -23,8 +23,6 @@ Trabalho como Software Developer na Localiza & CO.
 * Teste Unitários,
 * CI/CD,
 * Cloud Platforms (AWS e GCP).
-
-Estudo Bacharelado em Engenharia de Software e Tecnólogo em Análise e Desenvolvimento de Sistemas, ambos na PUC Minas.
 
 Tenho experiência em setores administrativos e assistência a gestores.
 Atuei na execução da manutenção em oficinas automotivas, oficinas de equipamentos de terraplanagem de mineração e como eletricista em usina de beneficiamento de minério de ferro.
