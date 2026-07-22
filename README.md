@@ -24,8 +24,6 @@ Trabalho como Software Developer.
 * CI/CD,
 * Cloud Platforms (AWS e GCP).
 
-Tenho experiência em setores administrativos e assistência a gestores.
-Atuei na execução da manutenção em oficinas automotivas, oficinas de equipamentos de terraplanagem de mineração e como eletricista em usina de beneficiamento de minério de ferro.
 
 <div >
   <a href="https://github.com/dgsilveira">
